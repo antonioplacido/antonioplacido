@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello friend!
 
-<!--
-**antonioplacido/antonioplacido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Antonio Placido, I'm an aspiring web dev located in Montreal Canada, looking for new opportunities!
 
-Here are some ideas to get you started:
+<div>About Me</div>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
