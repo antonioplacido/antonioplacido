@@ -7,7 +7,7 @@ I'm a fresh graduate out of a 12 week Bootcamp intensive from Concordia Universi
 
 ### So Whats up?
 
-I'm currently working on honing my skills as a dev, and I'm currently collaborating with 2 of my closest friends building apps together!
+Currently trying to tie up my googlespreadsheets to a nifty app :)
 
 ### For personal inquiries
 
