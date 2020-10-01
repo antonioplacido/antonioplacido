@@ -13,5 +13,3 @@ I'm currently working on honing my skills as a dev, and I'm currently collaborat
 
 <p><a href="https://www.linkedin.com/in/antonio-placido-872187165/"><img data-media-urn="" data-li-src="https://media-exp1.licdn.com/dms/image/C4E12AQGPwaGUxvHKGQ/article-inline_image-shrink_1000_1488/0?e=1605744000&amp;v=beta&amp;t=CN_mR8IKnMrb3f5Nlv7r2LgODmC4U8tuquay0eSmebk" src="https://media-exp1.licdn.com/dms/image/C4E12AQGPwaGUxvHKGQ/article-inline_image-shrink_1000_1488/0?e=1605744000&amp;v=beta&amp;t=CN_mR8IKnMrb3f5Nlv7r2LgODmC4U8tuquay0eSmebk"></a></p>
 
-- ⚡ Fun fact: Cookie Monster's real name is actually Sid!
-
