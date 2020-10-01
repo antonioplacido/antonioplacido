@@ -1,4 +1,4 @@
-# Hello friend!
+# 
 
 ### My name is Antonio Placido and I'm an aspiring web dev located in Montreal Canada, looking for new opportunities!
 
