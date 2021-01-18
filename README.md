@@ -7,7 +7,7 @@ I'm a fresh graduate out of a 12 week Bootcamp intensive from Concordia Universi
 
 ### So Whats up?
 
-Currently trying to tie up my googlespreadsheets to a nifty app :)
+Life in the covid bubble isn't easy, I'm trying to create little apps to make my day to day much more entertaining!
 
 ### For personal inquiries
 
